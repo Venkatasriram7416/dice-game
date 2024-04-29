@@ -1,0 +1,9 @@
+.box{
+    height: 300px;
+    width: 300px;
+    /* background-color: red; */
+    color: black;
+    justify-content: center;
+    align-items: center;
+    
+}
